@@ -1,5 +1,5 @@
 # app_vendas
 
 
-lucas gay
-vini lindo
+lucas lindo
+vini boiola
